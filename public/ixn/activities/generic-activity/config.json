@@ -1,8 +1,8 @@
 {
    "workflowApiVersion": "1.1",
    "metaData": {
-       "icon": "{{CA_IMG_40}}",
-       "iconSmall": "{{CA_IMG_15}}",
+       "icon": "ixn/activities/generic-activity/Prosegur_40.png",
+       "iconSmall": "ixn/activities/generic-activity/Prosegur_15.png",
        "category": "message",
 	   "isConfigured":true
    },
