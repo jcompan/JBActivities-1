@@ -2,7 +2,7 @@
    "workflowApiVersion": "1.1",
    "metaData": {
        "icon": "https://prosegur-activity-1.herokuapp.com/ixn/activities/generic-activity/web-icon_40.png",
-       "iconSmall": "https://prosegur-activity-1.herokuapp.com/ixn/activities/generic-activity/web-icon_40.png",
+       "iconSmall": "https://prosegur-activity-1.herokuapp.com/ixn/activities/generic-activity/web-icon_15.png",
        "category": "message",
 	   "isConfigured":true
    },
